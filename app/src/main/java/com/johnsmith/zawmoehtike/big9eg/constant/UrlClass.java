@@ -6,5 +6,5 @@ package com.johnsmith.zawmoehtike.big9eg.constant;
  */
 public class UrlClass {
 
-    public static String URL1 = "https://config.big9.tv/home/home_test.json";
+    public static String URL1 = "";
 }
